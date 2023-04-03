@@ -4,4 +4,4 @@
 * GPU: AMD READEON RX 6600 XT
 * motherboard: TUF GAMING B450M-PRO S
 * OS: 13.3
-* OC: 0.7.6
+* OC: 0.9.0
